@@ -6,7 +6,7 @@ Forkify is a modern recipe search application developed as part of _The Complete
 
 ## 🚀 Live Demo
 
-Experience the app live at this page[forkify-udemyjs-myfollowalong.netlify.app](https://forkify-udemyjs-myfollowalong.netlify.app/).
+Experience the app live at this page [forkify-udemyjs-myfollowalong.netlify.app](https://forkify-udemyjs-myfollowalong.netlify.app/).
 
 ---
 
