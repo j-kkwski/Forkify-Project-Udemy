@@ -1,12 +1,12 @@
 # Forkify – Recipe Finder
 
-Forkify is a modern recipe search application developed as part of *The Complete JavaScript Course 2025: From Zero to Expert!* by Jonas Schmedtmann. It demonstrates asynchronous JavaScript, ES6 modules, and the Model-View-Controller (MVC) architecture to build a dynamic and user-friendly web application.
+Forkify is a modern recipe search application developed as part of _The Complete JavaScript Course 2025: From Zero to Expert!_ by Jonas Schmedtmann. It demonstrates asynchronous JavaScript, ES6 modules, and the Model-View-Controller (MVC) architecture to build a dynamic and user-friendly web application.
 
 ---
 
 ## 🚀 Live Demo
 
-Experience the app live at [forkify-udemyjs-myfollowalong.netlify.app](https://forkify-udemyjs-myfollowalong.netlify.app/).
+Experience the app live at this page[forkify-udemyjs-myfollowalong.netlify.app](https://forkify-udemyjs-myfollowalong.netlify.app/).
 
 ---
 
