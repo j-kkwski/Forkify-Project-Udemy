@@ -20,7 +20,7 @@ import 'regenerator-runtime/runtime';
 
 const controlRecipes = async function () {
   try {
-    const id = window.location.hash.slice(1);
+    const id = window.location.hash.slice(1) || '5ed6604591c37cdc054bc886';
 
     recipeView.renderSpinner();
 
