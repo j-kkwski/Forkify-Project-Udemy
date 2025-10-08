@@ -22,6 +22,8 @@ const controlRecipes = async function () {
   try {
     const id = window.location.hash.slice(1) || '5ed6604591c37cdc054bc886';
 
+    console.log('test');
+
     recipeView.renderSpinner();
 
     resultsView.update(model.getSearchResultsPage());
